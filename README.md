@@ -6,11 +6,4 @@
 </p>
 
 
-<h1 align="center">
-    <img alt="Launchbase" src="https://media.giphy.com/media/eIrwmPmM3sKDrSqGH6/giphy.gif" />
-</h1>
-
-<h1 align="center">
-    <img alt="Launchbase" src="https://i.imgur.com/NqCgeUO.jpg" />
-</h1>
 
